@@ -27,7 +27,7 @@ $data = json_decode($data, TRUE);
 <body>
     <div class="wrap">
         <div class="header">
-            <h1>STTI API</h1>
+            <h1>UMAHA API</h1>
 
         </div>
         <div class="menu">

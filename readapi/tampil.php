@@ -64,7 +64,7 @@ $data = json_decode($data, TRUE); ?>
             </div>
             <div class="clear"></div>
             <div class="footer">
-                <p> Sekolah Tinggi Teknologi Indonesia</p>
+                <p> UMAHA </p>
             </div>
         </div>
     </body>
